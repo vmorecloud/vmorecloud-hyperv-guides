@@ -36,7 +36,7 @@ For **full step-by-step tutorials**, screenshots, and in-depth explanations, vis
 
     
 - **Comprehensive Guide to vCenter High Availability (vCenter HA)**
-https://vmorecloud.com/comprehensive-guide-to-vcenter-high-availability/
+- https://vmorecloud.com/comprehensive-guide-to-vcenter-high-availability/
 
 - **Hyper-V Storage Migration Explained: Moving VM Disks Without Downtime**  
  https://vmorecloud.com/hyper-v-storage-migration-explained-moving-vm-disks-without-downtime/
