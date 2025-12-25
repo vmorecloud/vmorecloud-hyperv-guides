@@ -31,8 +31,8 @@ For **full step-by-step tutorials**, screenshots, and in-depth explanations, vis
 
 ## 📘 Popular Guides
 
-- **Live Migration vs Storage Migration in Hyper-V**  
-  https://www.vmorecloud.com/live-migration-vs-storage-migration
+- **Step-by-Step Guide: Live Migration Using PowerShell**  
+  https://vmorecloud.com/step-by-step-guide-live-migration-using-powershell/
 
     
 - **Comprehensive Guide to vCenter High Availability (vCenter HA)**
