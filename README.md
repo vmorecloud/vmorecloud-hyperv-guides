@@ -43,7 +43,7 @@ For **full step-by-step tutorials**, screenshots, and in-depth explanations, vis
 
 ---
 
-## 🛠 Who Is This For?
+## 🛠 Who is This For?
 
 This repository is useful for:
 
