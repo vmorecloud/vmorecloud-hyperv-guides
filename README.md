@@ -37,8 +37,8 @@ For **full step-by-step tutorials**, screenshots, and in-depth explanations, vis
 - **How to Implement High Availability for Windows Server VMs**  
   https://www.vmorecloud.com/implement-high-availability-windows-server-vms
 
-- **Hyper-V Storage Migration: Step-by-Step Guide**  
-  https://www.vmorecloud.com/hyper-v-storage-migration-guide
+- **Hyper-V Storage Migration Explained: Moving VM Disks Without Downtime**  
+ https://vmorecloud.com/hyper-v-storage-migration-explained-moving-vm-disks-without-downtime/
 
 ---
 
